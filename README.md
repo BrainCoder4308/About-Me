@@ -9,7 +9,7 @@ Other than coding, some of my other interests are reading📕📕, writing📝, 
 <ol> 
   <li> I'm a hard worker, and I like to refer to myself as procedure-oriented, as I never stop working until I reach my goal.</li>
   <li> I'm open to feedback.  Feel free to suggest any improvements on my repositories.</li>
-  <li> I'm assiduous. I don't give up. I always stay positive.</li>
+  <li></li>
 </ol>
 
 
